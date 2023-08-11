@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todoApp/static/css/main.bd2725f6.css",
+    "main.js": "/todoApp/static/js/main.d3d74498.js",
+    "static/media/pexels-wallace-chuck-3728085.jpg": "/todoApp/static/media/pexels-wallace-chuck-3728085.f6c9ef15ce91b60b7606.jpg",
+    "index.html": "/todoApp/index.html",
+    "main.bd2725f6.css.map": "/todoApp/static/css/main.bd2725f6.css.map",
+    "main.d3d74498.js.map": "/todoApp/static/js/main.d3d74498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd2725f6.css",
+    "static/js/main.d3d74498.js"
+  ]
+}
